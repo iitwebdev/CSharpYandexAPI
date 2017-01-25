@@ -1,0 +1,14 @@
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\TranslatorForWeb.exe.config
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\TranslatorForWeb.exe
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\TranslatorForWeb.pdb
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\RestSharp.dll
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\RestSharp.xml
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\obj\Debug\TranslatorForWeb.csprojResolveAssemblyReference.cache
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\obj\Debug\TranslatorForWeb.Form1.resources
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\obj\Debug\TranslatorForWeb.Properties.Resources.resources
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\obj\Debug\TranslatorForWeb.csproj.GenerateResource.Cache
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\obj\Debug\TranslatorForWeb.exe
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\obj\Debug\TranslatorForWeb.pdb
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krivo_000\Desktop\Учеба\C++\TranslatorForWeb\TranslatorForWeb\bin\Debug\Newtonsoft.Json.xml
